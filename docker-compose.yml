@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  dcnnode:
+    image: dcnnode
+    build:
+      context: .
+      dockerfile: ./Dockerfile

@@ -1,0 +1,6 @@
+__pycache__
+/debug.log
+/config*.json
+/test.py
+/.vscode
+/certificate
