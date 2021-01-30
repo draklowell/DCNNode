@@ -1,6 +1,6 @@
 # DCN Node
 #### Node
-[github](https://github.com/draklowell/DCNNode) | [dockerhub](https://hub.docker.com/repository/docker/draklowell/dcn)
+[github](https://github.com/draklowell/DCNNode) | [dockerhub](https://hub.docker.com/r/draklowell/dcn)
 #### Client
 [github](https://github.com/draklowell/DCNLibrary/) | [pypi](https://pypi.org/project/dcn/)
 ## Setup guide
